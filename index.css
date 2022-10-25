@@ -1,0 +1,19 @@
+body{
+    background-color: darkolivegreen;
+    font-family: montserrat;
+    text-align: center;
+}
+
+h1{
+    font-size: 70px;
+}
+
+p, button{
+    font-size: 50px;
+}
+button{
+    font-family: montserrat;
+    padding: 20px 60px;
+    border-radius: 60px;
+    cursor: pointer;
+}
